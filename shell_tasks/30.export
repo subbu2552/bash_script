@@ -1,0 +1,3 @@
+using export declar youre variable perminent
+cat /etc/profile --- > root user
+cat .bashrc -----> normal user

@@ -1,0 +1,3 @@
+previous execution status use $? 
+0 means success
+127 or othes fail

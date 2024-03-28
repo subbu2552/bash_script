@@ -1,0 +1,6 @@
+/etc/hosts---> it is a local database that maps hostnames to ip adress.
+/etc/resolv.conf----> contains dns records info
+type 0f dns records
+-------------------
+1. A -->maps hostname to ip_address
+2. AAA--->>maps hostname to ip_address ipv6

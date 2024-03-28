@@ -1,0 +1,7 @@
+TERM=xterm
+SHELL=/bin/bash
+HISTSIZE=1000
+SSH_CLIENT=49.47.234.75 49939 22
+SSH_TTY=/dev/pts/0
+USER=ec2-user
+

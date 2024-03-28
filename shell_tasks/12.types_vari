@@ -1,0 +1,15 @@
+system variable 
+---------------
+defined by system
+if you want to define system variable go and edit cat /etc/profile
+export name="gopi"
+echo $USER
+echo $JAVA
+echo $SHELL ...etc
+
+user defines varibles
+---------------------
+defined by user
+name="gopi"
+age=25
+
